@@ -1,3 +1,7 @@
+[DEPRECATED]
+
+![Project frozen](https://img.shields.io/badge/status-frozen-blue.png) ![Project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
+
 # TextRazor.NET
 
 A .NET library for accessing the TextRazor API over [REST](https://www.textrazor.com/docs/rest).
@@ -21,5 +25,3 @@ The official TextRazor.NET build and nuget package is automated via MyGet [build
 
 ### Stable
 [![cskardon MyGet Build Status](https://www.myget.org/BuildSource/Badge/cskardon?identifier=a58db3b2-bfa6-4289-a5dd-9d85e1d619a4)](https://www.myget.org/)
-
-![Project frozen](https://img.shields.io/badge/status-frozen-blue.png) ![Project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
